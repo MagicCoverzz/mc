@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(224, 226, 229);
+    /* margin: 20px; */
+}
+.card-radius{
+    border-radius: 20px;
+}
+.header-bg{
+    background: rgb(52, 211, 211);
+}
+.btn{
+    border-radius: 25px;
+}
+.li-li{
+    border-radius: 20px;
+}
+.li-nav {
+    text-decoration: none;
+    color: black;
+
+}
+.li-nav:hover {
+    text-decoration: none;
+    color: rgb(122, 118, 118);
+
+}
